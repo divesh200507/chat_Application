@@ -1,0 +1,2 @@
+2025-11-24T06:25:35.0509580Z|from=system|to=alice|type=LOGIN_RESP|bytes=32|latency_ms=1
+2025-11-24T06:32:21.0279628Z|from=system|to=alice|type=LOGIN_RESP|bytes=32|latency_ms=1

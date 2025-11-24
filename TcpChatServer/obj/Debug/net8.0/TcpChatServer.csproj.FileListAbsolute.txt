@@ -1,0 +1,14 @@
+D:\C#\TcpChatServer\bin\Debug\net8.0\TcpChatServer.exe
+D:\C#\TcpChatServer\bin\Debug\net8.0\TcpChatServer.deps.json
+D:\C#\TcpChatServer\bin\Debug\net8.0\TcpChatServer.runtimeconfig.json
+D:\C#\TcpChatServer\bin\Debug\net8.0\TcpChatServer.dll
+D:\C#\TcpChatServer\bin\Debug\net8.0\TcpChatServer.pdb
+D:\C#\TcpChatServer\obj\Debug\net8.0\TcpChatServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\TcpChatServer\obj\Debug\net8.0\TcpChatServer.AssemblyInfoInputs.cache
+D:\C#\TcpChatServer\obj\Debug\net8.0\TcpChatServer.AssemblyInfo.cs
+D:\C#\TcpChatServer\obj\Debug\net8.0\TcpChatServer.csproj.CoreCompileInputs.cache
+D:\C#\TcpChatServer\obj\Debug\net8.0\TcpChatServer.dll
+D:\C#\TcpChatServer\obj\Debug\net8.0\refint\TcpChatServer.dll
+D:\C#\TcpChatServer\obj\Debug\net8.0\TcpChatServer.pdb
+D:\C#\TcpChatServer\obj\Debug\net8.0\TcpChatServer.genruntimeconfig.cache
+D:\C#\TcpChatServer\obj\Debug\net8.0\ref\TcpChatServer.dll
