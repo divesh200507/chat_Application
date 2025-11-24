@@ -37,9 +37,9 @@ Small TCP chat server + CLI client with JSON protocol.
 
 Hard-coded in server:
 
-- `alice / password1`
-- `bob / password2`
-- `charlie / password3`
+- `Divesh / password1`
+- `smit / password2`
+- `priyank / password3`
 
 ## Build steps
 
@@ -47,3 +47,4 @@ From root:
 
 ```bash
 dotnet build
+
