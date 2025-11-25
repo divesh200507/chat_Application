@@ -22,9 +22,9 @@ internal class Program
     // Static credentials (username -> password)
     private static readonly ConcurrentDictionary<string, string> Credentials = new()
     {
-        ["alice"] = "password1",
-        ["bob"]   = "password2",
-        ["charlie"] = "password3"
+        ["Divesh"] = "password1",
+        ["smit"]   = "password2",
+        ["Priyank"] = "password3"
     };
 
     // Online users (username -> session)
